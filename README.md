@@ -166,22 +166,11 @@ Gosto de transformar ideias em projetos e experimentar diferentes tecnologias. A
 ---
 
 
-## 🐍 Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/GustavoSchwabeRazera/GustavoSchwabeRazera/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 📫 Contato
 
-Em breve...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Schwabe%20Razera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-schwabe-razera-a92842405/)
 
-<!--
-LinkedIn:
-E-mail:
-Portfólio:
-Instagram:
--->
+[![Gmail](https://img.shields.io/badge/Gmail-schwaberazeragustavo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schwaberazeragustavo@gmail.com)
 
 ---
 
