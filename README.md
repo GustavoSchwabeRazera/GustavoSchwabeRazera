@@ -165,13 +165,6 @@ Gosto de transformar ideias em projetos e experimentar diferentes tecnologias. A
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoSchwabeRazera\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSchwabeRazera\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 ## 🐍 Contribuições
 
