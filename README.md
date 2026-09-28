@@ -145,13 +145,13 @@ O projeto explora integração entre:
 
 ## 📈 Atualmente
 
-*🔎 Explorando diferentes áreas da programação
-*🧠 Estudando Inteligência Artificial e Machine Learning
-*🐍 Desenvolvendo projetos em Python
-*☕ Desenvolvendo aplicações em Java
-*📱 Explorando desenvolvimento Android
-*🗄️ Trabalhando com bancos de dados
-*🚀 Criando projetos para aprender na prática
+- 🔎 Explorando diferentes áreas da programação
+- 🧠 Estudando Inteligência Artificial e Machine Learning
+- 🐍 Desenvolvendo projetos em Python
+- ☕ Desenvolvendo aplicações em Java
+- 📱 Explorando desenvolvimento Android
+- 🗄️ Trabalhando com bancos de dados
+- 🚀 Criando projetos para aprender na prática
 
 ---
 
